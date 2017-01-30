@@ -1,6 +1,6 @@
 Name     : jdk-scalacheck_2.11
 Version  : 1.12.5
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.5/scalacheck_2.11-1.12.5.jar
 Source0  : http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.5/scalacheck_2.11-1.12.5.jar
 Source1  : http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.5/scalacheck_2.11-1.12.5.pom
